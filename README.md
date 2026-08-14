@@ -1,4 +1,6 @@
 
+# Cypress QA Automation
+
 🌐 [Read this in English](./README.en.md)
 
 Este é um projeto pessoal de estudo, onde estou praticando automação de
