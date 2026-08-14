@@ -1,4 +1,3 @@
-# Cypress QA Automation
 
 🌐 [Read this in English](./README.en.md)
 
