@@ -119,4 +119,3 @@ estudar e aplicar:
   GitHub Actions (`.github/workflows/cypress.yml`) que roda os testes
   automaticamente a cada push, para simular como seria numa esteira de
   CI de verdade.
-# cypress-qa-automation
