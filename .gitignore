@@ -1,0 +1,14 @@
+node_modules/
+npm-debug.log*
+
+# Artefatos gerados pelo Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+# Editor / SO
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
